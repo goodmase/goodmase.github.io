@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a full stack software engineer experienced in developing mobile applications and scalable web services. Most of my work has been in the development of low cost 3D scanning, computer vision (OpenCV), and asset tracking/management (MRP) applications for medical device/service companies.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+My main programming stack consists of: Objective-C, Swift, Python, Go, and Javascript.  
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+For fun I enjoy hiking, yoga, cooking, and gaming. 
